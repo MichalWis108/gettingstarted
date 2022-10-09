@@ -1,1 +1,3 @@
-Getting Starter with Ubuntu here
+Getting Starter with Ubuntu here.
+
+New text here.
